@@ -55,8 +55,7 @@ const Hero = () => {
           <p className="mt-5 text-white/70 leading-relaxed max-w-xl mx-auto lg:mx-0">
             Pramuka Universitas Sriwijaya berkomitmen membangun karakter,
             kepemimpinan, dan kolaborasi melalui kegiatan kepramukaan yang
-            terstruktur dan profesional, termasuk kerja sama resmi melalui
-            Memorandum of Understanding (MoU).
+            terstruktur dan profesional.
           </p>
 
           {/* SOCIAL MEDIA */}
