@@ -95,14 +95,14 @@ const Hero = () => {
               <FaTiktok />
             </a>
 
-            <a
+            {/* <a
               href="https://facebook.com"
               target="_blank"
               className="text-white/70 hover:text-orange-500 transition text-xl"
               aria-label="Facebook"
             >
               <FaFacebookF />
-            </a>
+            </a> */}
           </div>
 
           {/* BUTTON */}
